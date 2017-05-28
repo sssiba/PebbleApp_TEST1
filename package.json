@@ -1,0 +1,34 @@
+{
+    "author": "sss6001mk2sr@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test1",
+    "pebble": {
+        "displayName": "test1",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "data/bg64",
+                    "name": "IMAGE_BG64",
+                    "targetPlatforms": null,
+                    "type": "raw"
+                },
+                {
+                    "file": "images/bg2.png",
+                    "name": "IMAGE_BG2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "206b18b2-8353-4df8-a4c4-09cef6e37043",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
